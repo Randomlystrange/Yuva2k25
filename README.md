@@ -17,7 +17,6 @@
 - Message history and persistence
 - User presence indicators
 
-Typing indicators and read receipts
 # Target Audience
 - For Freelancers
 - Connect with potential clients
@@ -29,5 +28,5 @@ For Consumers
 - Compare offerings
 - Communicate directly with freelancers
 - Manage service requests efficiently
-- 
+
 This app runs natively on Android devices and emulators.
