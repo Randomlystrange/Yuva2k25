@@ -18,12 +18,12 @@
 - User presence indicators
 
 # Target Audience
-- For Freelancers
+### For Freelancers
 - Connect with potential clients
 - Manage project communications
 - Build your professional network
 
-For Consumers
+### For Consumers
 - Find qualified service providers
 - Compare offerings
 - Communicate directly with freelancers
